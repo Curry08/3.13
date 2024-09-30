@@ -6,7 +6,7 @@ int main(){
     scanf("%d",&gg1);
     scanf("%d",&mm1);
     scanf("%d",&aa1);
-    printf("Inserisci la prima data[GG/MM/AA]: ");;
+    printf("Inserisci la prima data[GG/MM/AA]: ");
     scanf("%d",&gg2);
     scanf("%d",&mm2);
     scanf("%d",&aa2);
